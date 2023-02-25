@@ -1,0 +1,28 @@
+.article {
+    color: blue;
+    font-size: 24px;
+    padding: 10px;
+    background-color: rgba(49, 195, 103, 0.401);
+    margin: 0 auto;
+    max-width: 1600px;
+}
+
+.heading {
+    color: green;
+    text-align: center;
+    
+    
+    
+}
+
+.sub-heading {
+
+    text-align: center;
+    color: brown;
+
+}
+.text{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
